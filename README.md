@@ -1,7 +1,7 @@
 
-**Berni Macro Pad**
+**berni bean Pad**
 
-The Berni Macro Pad is a compact, customizable 6 key macro pad with an OLED display screen.
+The bean pad is a compact, customizable 6 key macro pad with an OLED display screen.
 It is powered by the Seeed Studio XIAO microcontroller. 
 Designed for productivity, shortcuts, media control, or creative automation, it’s a small but mighty tool for hackers, makers, and desk setup nerds.
 
