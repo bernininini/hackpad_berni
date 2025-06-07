@@ -17,7 +17,9 @@ first time messing around with routing properly — and wow, it was annoying. i 
 
 # Specifications
 - BOM
-6x Gateron Brown Switiches 
-1x OLED display
-1x Seeed Studio XIAO RP2040
+-   6x Gateron Brown Switiches 
+
+-   1x OLED display
+
+-   1x Seeed Studio XIAO RP2040
 
