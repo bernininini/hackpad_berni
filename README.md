@@ -2,7 +2,7 @@
 **berni bean pad**
 
 ---
-![img](https://slack-files.com/T0266FRGM-F08V88H309E-c56d0bd13b)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bb8cecf717308e50aa692ebb2905a667c9b232bc_real_pcb.png)
 ---
 
 # Inspiration
@@ -17,7 +17,7 @@ first time messing around with routing properly — and wow, it was annoying. i 
 
 # Specifications
 - BOM
-6x Brown MX switches
+6x Gateron Brown Switiches 
 1x OLED display
 1x Seeed Studio XIAO RP2040
 
